@@ -1,21 +1,56 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Kannada",Suvarna
+# Kannada Channels
+
+#EXTINF:-1 tvg-id="Suvarna.in" tvg-name="Star Suvarna" audio-track="kn" tvg-country="IN" group-title="Entertainment",Kannada: Suvarna
 http://jiocdn.fun/mymhdtvworld/hs2xXxX.php?c=starsuvarna&e=.m3u8
 
-#EXTINF:-1 logo="http://mhdtvworld.live/wp-content/uploads/2019/03/star_suvarna_in_plus.png" group-title="Kannada",Suvarna Plus
+#EXTINF:-1 tvg-id="SuvarnaPlus.in" tvg-name="Suvarna Plus" audio-track="kn" tvg-country="IN" group-title="Entertainment",Kannada: Suvarna Plus
 http://jiocdn.fun/mymhdtvworld/hs2xXxX.php?c=starsuvarnaplus&e=.m3u8
 
-#EXTINF:-1 logo="http://mhdtvworld.live/wp-content/uploads/2018/12/Sakkat-img_logo_sonysabhd_1-176X96.jpg" group-title="Kannada",Sakkat
+#EXTINF:-1 tvg-id="Sakkat.in" tvg-name="Hungama Sakkat" audio-track="kn" tvg-country="IN"  group-title="Music",Kannada: Sakkat
 https://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
 
-#EXTINF:-1 logo="http://mhdtvworld.live/wp-content/uploads/2018/12/public_music_in.png" group-title="Kannada",Public Music
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" audio-track="kn" tvg-country="IN" group-title="Music",Kannada: Public Music
 https://streamidvo.multitvsolution.in/live/PublicMusic-a/p4.m3u8
 
+# Telugu Channels
 
-#EXTINF:-1 logo="http://mhdtvworld.live/wp-content/uploads/2019/05/MAAHD.png" group-title="Telugu",Star Maa HD
+#EXTINF:-1 tvg-id="MaaTv.in" tvg-name="Star Maa" audio-track="te" tvg-country="IN" group-title="Entertainment",Telugu: Star Maa HD
 http://jiocdn.fun/mymhdtvworld/hs2xXxX.php?c=maatv&e=.m3u8
 
-#EXTINF:-1 logo="http://mhdtvworld.live/wp-content/uploads/2019/01/MAAMOVIES.png" group-title="Telugu",Star Maa Movies
+#EXTINF:-1 tvg-id="MaaMovies.in" tvg-name="Star Maa Movies" audio-track="te" tvg-country="IN" group-title="Movie",Telugu: Star Maa Movies
 http://jiocdn.fun/mymhdtvworld/hs2xXxX.php?c=maamovies&e=.m3u8
 
+
+# Tamil Channels
+
+
+# Hindi Channels
+
+
+# English Channels
+
+#EXTINF:-1 tvg-id="MGM.in" tvg-name="MGM" audio-track="en" tvg-country="IN" group-title="Movie",English: MGM
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+
+#EXTINF:-1 tvg-id="RomedyNow.in" tvg-name="Romedy Now" audio-track="en" tvg-country="IN" group-title="Movie",English: Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+
+#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" audio-track="en" tvg-country="IN" group-title="Movie",English: Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
+#EXTINF:-1 tvg-id="StarMoviesHD.in" tvg-name="Star Movies HD" audio-track="en" tvg-country="IN" group-title="Movie",English: Star Movies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicChannelHD.in" tvg-name="National Geographic Channel HD" audio-track="en" tvg-country="IN" group-title="Entertainment",English: National Geographic Channel HD
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHD.in" tvg-name="Discovery HD" audio-track="en" tvg-country="IN" group-title="Entertainment",English: Discovery HD
+http://streamidvo.multitvsolution.in//live//DiscoveryHD-a//p4.m3u8
+
+#EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" audio-track="en" tvg-country="IN" group-title="Entertainment",English: MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
+
+#EXTINF:-1 tvg-id="HistoryTv18.in" tvg-name="History" audio-track="en" tvg-country="IN" group-title="Entertainment",English: History
+http://livecdnh2.tvanywhere.ae/hls/historyhd/index.m3u8
